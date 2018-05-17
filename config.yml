@@ -1,0 +1,5 @@
+name: 最新商品プラグイン
+code: LatestProduct
+version: 1.0.0
+service:
+    - LatestProductServiceProvider
