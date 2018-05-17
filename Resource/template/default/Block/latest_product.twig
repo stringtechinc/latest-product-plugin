@@ -1,7 +1,7 @@
 <div class="row">
     {% if Products|length > 0 %}
         {% for Product in Products %}
-            <div class="col-sm-3 col-xs-6">
+            <div class="col-sm-2 col-xs-6">
                 <div class="pickup_item">
                     <a href="{{ url('product_detail', {'id': Product.id}) }}">
                         <div class="item_photo">

@@ -42,7 +42,7 @@ class LatestProductController
         $pagination = $app['paginator']()->paginate(
             $qb,
             1,
-            8
+            12
         );
 
         return $app['view']->render('Block\latest_product.twig', array(
