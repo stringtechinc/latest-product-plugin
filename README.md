@@ -13,6 +13,8 @@
 - 最新商品一覧の商品をクリックすると、その商品の詳細ページに移動することができる。
 	- 商品詳細ページにリンクを張る。
 ### screenshot
+- PC
 ![PC](https://github.com/stringtechinc/latest-product-plugin/blob/master/latest_product_pc.png)
 
+- SP
 ![SP](https://github.com/stringtechinc/latest-product-plugin/blob/master/latest_product_sp.png)
